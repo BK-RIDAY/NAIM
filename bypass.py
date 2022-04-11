@@ -1,2 +1,2 @@
-from naim import *
+from naim import main
 main()
